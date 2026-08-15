@@ -1,0 +1,164 @@
+entity_id,entity_type,canonical_name,original_name,source_doc_id,method,confidence,evidence
+DoiTuongApDung_859512377,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,166170,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_84410887,DoiTuongApDung,Tổ chức tín dụng,Tổ chức tín dụng,166170,metadata/gemini,1.0,metadata/enrichment
+NguoiKy_125471001,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166170,metadata,1.0,metadata
+DoiTuongApDung_828448012,DoiTuongApDung,"Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ","Tổ chức mà Nhà nước sở hữu 100% vốn điều lệ có chức năng mua, bán, xử lý nợ",166170,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_403536334,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",166170,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_384788153,LinhVuc,Tín dụng,Tín dụng,166170,metadata,1.0,metadata
+CoQuan_631011907,CoQuan,Quốc hội,Quốc hội,166170,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,186888,metadata,1.0,metadata
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",174218,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,174218,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,174218,metadata,1.0,metadata
+DoiTuongApDung_339967341,DoiTuongApDung,"Tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài","tổ chức kinh doanh chứng khoán, quỹ đầu tư chứng khoán, công ty đầu tư chứng khoán, doanh nghiệp kinh doanh bảo hiểm và các cơ quan, tổ chức, cá nhân có liên quan đến hoạt động đầu tư gián tiếp ra nước ngoài",112924,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_296997001,LinhVuc,Chứng khoán,Chứng khoán,112924,metadata,1.0,metadata
+NguoiKy_392866180,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,112924,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,Bộ Tài chính,Bộ Tài chính,112924,metadata,1.0,metadata
+DoiTuongApDung_867310617,DoiTuongApDung,"Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam","Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam, tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, Công ty quản lý tài sản của các tổ chức tín dụng Việt Nam",186482,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_204942460,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,186482,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186482,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,186482,metadata,1.0,metadata
+DoiTuongApDung_242495839,DoiTuongApDung,"Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài","Các tổ chức, cá nhân có liên quan đến hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài và văn phòng đại diện nước ngoài",173695,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_403536334,DoiTuongApDung,"Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng","Văn phòng đại diện tại Việt Nam của tổ chức tín dụng nước ngoài, tổ chức nước ngoài khác có hoạt động ngân hàng",173695,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_859512377,DoiTuongApDung,Chi nhánh ngân hàng nước ngoài,Chi nhánh ngân hàng nước ngoài,173695,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_526033542,DoiTuongApDung,Ngân hàng thương mại,Ngân hàng thương mại,173695,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",173695,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173695,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173695,metadata,1.0,metadata
+DoiTuongApDung_926133329,DoiTuongApDung,"Ngân hàng, chi nhánh ngân hàng nước ngoài","ngân hàng, chi nhánh ngân hàng nước ngoài",164719,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",164719,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,164719,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,164719,metadata,1.0,metadata
+DoiTuongApDung_444077050,DoiTuongApDung,"Các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập","các doanh nghiệp, cơ quan nhà nước, đơn vị sự nghiệp công lập",150974,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_566025587,LinhVuc,"Kế toán, kiểm toán","Kế toán, kiểm toán",150974,metadata,1.0,metadata
+NguoiKy_494977834,NguoiKy,Tạ Anh Tuấn,Tạ Anh Tuấn,150974,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,Bộ Tài chính,Bộ Tài chính,150974,metadata,1.0,metadata
+DoiTuongApDung_420902510,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân","Tổ chức, cá nhân có liên quan đến quản trị, điều hành, tổ chức và hoạt động của quỹ tín dụng nhân dân",168859,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_564712484,DoiTuongApDung,Ngân hàng hợp tác xã,Ngân hàng hợp tác xã,168859,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_614888172,DoiTuongApDung,Quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân,168859,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",168859,metadata,1.0,metadata
+NguoiKy_306203262,NguoiKy,Đào Minh Tú,Đào Minh Tú,168859,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168859,metadata,1.0,metadata
+DoiTuongApDung_56526574,DoiTuongApDung,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này,Các doanh nghiệp không thuộc quy định tại khoản 1 Điều này,143217,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_82441061,DoiTuongApDung,Các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiếm toán nội bộ,các doanh nghiệp quy định tại khoản 1 Điều 10 Nghị định số 05/2019/NĐ-CP ngày 22 tháng 01 năm 2019 của Chính phủ về kiếm toán nội bộ,143217,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_898393019,LinhVuc,Kiểm toán,Kiểm toán,143217,metadata,1.0,metadata
+NguoiKy_809720219,NguoiKy,Đỗ Hoàng Anh Tuấn,Đỗ Hoàng Anh Tuấn,143217,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,Bộ Tài chính,Bộ Tài chính,143217,metadata,1.0,metadata
+DoiTuongApDung_960165797,DoiTuongApDung,"Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ","Tổ chức tín dụng, chi nhánh ngân hàng nước ngoài, tổ chức, cá nhân có liên quan đến hệ thống kiểm soát nội bộ và kiểm toán nội bộ",27257,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_869840649,LinhVuc,Kiểm soát nội bộ và kiểm toán nội bộ,kiểm soát nội bộ và kiểm toán nội bộ,27257,metadata,1.0,metadata
+NguoiKy_705281220,NguoiKy,Trần Minh Tuấn,Trần Minh Tuấn,27257,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,27257,metadata,1.0,metadata
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",173460,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,173460,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,173460,metadata,1.0,metadata
+DoiTuongApDung_955184280,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán","Tổ chức, cá nhân có liên quan đến việc đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán",30402,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_530157567,DoiTuongApDung,"Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam","Doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam",30402,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_624411778,DoiTuongApDung,"Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam","Kiểm toán viên đăng ký hành nghề tại doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam",30402,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_783077438,LinhVuc,Quản lý dịch vụ tài chính và các quỹ tài chính,Quản lý dịch vụ tài chính và các quỹ tài chính,30402,metadata,1.0,metadata
+NguoiKy_392866180,NguoiKy,Trần Xuân Hà,Trần Xuân Hà,30402,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,Bộ Tài chính,Bộ Tài chính,30402,metadata,1.0,metadata
+DoiTuongApDung_697390452,DoiTuongApDung,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài","Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_32937,LinhVuc,Chứng khoán và thị trường chứng khoán,chứng khoán và thị trường chứng khoán,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,1.0,metadata
+NguoiKy_632254791,NguoiKy,Nguyễn Đức Chi,Nguyễn Đức Chi,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,Bộ Tài chính,Bộ Tài chính,f69936f0-6937-11f1-a48d-29bc6b0fd706,metadata,1.0,metadata
+DoiTuongApDung_159597623,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan","Các tổ chức, cá nhân khác có liên quan",95652,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_715272991,DoiTuongApDung,Các cơ quan quản lý nhà nước,Các cơ quan quản lý nhà nước,95652,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_889105028,DoiTuongApDung,Nhà đầu tư,Nhà đầu tư,95652,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_948606539,LinhVuc,Đầu tư gián tiếp ra nước ngoài,đầu tư gián tiếp ra nước ngoài,95652,metadata,1.0,metadata
+NguoiKy_720650062,NguoiKy,Nguyễn Tấn Dũng,Nguyễn Tấn Dũng,95652,metadata,1.0,metadata
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,95652,metadata,1.0,metadata
+DoiTuongApDung_479252915,DoiTuongApDung,"Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam","Chánh Văn phòng, Cục trưởng Cục Quản lý dự trữ ngoại hối nhà nước và Thủ trưởng các đơn vị thuộc Ngân hàng Nhà nước Việt Nam",169221,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_718993294,LinhVuc,Quản lý ngoại hối,Quản lý ngoại hối,169221,metadata,1.0,metadata
+NguoiKy_653696408,NguoiKy,Phạm Thanh Hà,Phạm Thanh Hà,169221,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,169221,metadata,1.0,metadata
+DoiTuongApDung_769432579,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ","Các tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán nội bộ",133858,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_576196400,DoiTuongApDung,Các doanh nghiệp,Các doanh nghiệp,133858,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_61619648,DoiTuongApDung,Các đơn vị sự nghiệp công lập,Các đơn vị sự nghiệp công lập,133858,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_103313659,DoiTuongApDung,"Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương","Ủy ban nhân dân các tỉnh, thành phố trực thuộc trung ương",133858,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_733604133,DoiTuongApDung,"Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ","Các bộ, cơ quan ngang bộ, cơ quan thuộc Chính phủ",133858,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_153055480,LinhVuc,Kiểm toán nội bộ,kiểm toán nội bộ,133858,metadata,1.0,metadata
+NguoiKy_517575735,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,133858,metadata,1.0,metadata
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,133858,metadata,1.0,metadata
+DoiTuongApDung_485719088,DoiTuongApDung,"Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này","Tổ chức, cá nhân có liên quan đến phạm vi điều chỉnh quy định tại Điều 1 Thông tư này",168220,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_614888172,DoiTuongApDung,Quỹ tín dụng nhân dân,Quỹ tín dụng nhân dân,168220,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_564712484,DoiTuongApDung,Ngân hàng hợp tác xã,Ngân hàng hợp tác xã,168220,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",168220,metadata,1.0,metadata
+NguoiKy_306203262,NguoiKy,Đào Minh Tú,Đào Minh Tú,168220,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,168220,metadata,1.0,metadata
+DoiTuongApDung_697390452,DoiTuongApDung,"Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài","Tổ chức, cá nhân Việt Nam và tổ chức, cá nhân nước ngoài",146468,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_296997001,LinhVuc,Chứng khoán,Chứng khoán,146468,metadata,1.0,metadata
+NguoiKy_517575735,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,146468,metadata,1.0,metadata
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,146468,metadata,1.0,metadata
+DoiTuongApDung_959727473,DoiTuongApDung,"Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng","Bên mua bảo hiểm, người được bảo hiểm, người thụ hưởng",163441,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_711647360,DoiTuongApDung,"Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam","Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam",163441,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_495196204,DoiTuongApDung,"Chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp tái bảo hiểm nước ngoài","Chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp tái bảo hiểm nước ngoài",163441,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_520273571,DoiTuongApDung,"Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe, doanh nghiệp tái bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm, tổ chức, cá nhân cung cấp dịch vụ phụ trợ bảo hiểm, tổ chức tương hỗ cung cấp bảo hiểm vi mô","Doanh nghiệp bảo hiểm phi nhân thọ, doanh nghiệp bảo hiểm nhân thọ, doanh nghiệp bảo hiểm sức khỏe, doanh nghiệp tái bảo hiểm, đại lý bảo hiểm, doanh nghiệp môi giới bảo hiểm, tổ chức, cá nhân cung cấp dịch vụ phụ trợ bảo hiểm, tổ chức tương hỗ cung cấp bảo hiểm vi mô",163441,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_580170688,LinhVuc,Bảo hiểm,Bảo hiểm,163441,metadata,1.0,metadata
+NguoiKy_415579774,NguoiKy,Lê Minh Khái,Lê Minh Khái,163441,metadata,1.0,metadata
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,163441,metadata,1.0,metadata
+DoiTuongApDung_342825546,DoiTuongApDung,"Kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập","kiểm toán viên, kiểm toán viên hành nghề, doanh nghiệp kiểm toán, chi nhánh doanh nghiệp kiểm toán nước ngoài tại Việt Nam, đơn vị được kiểm toán, tổ chức nghề nghiệp về kiểm toán và tổ chức, cá nhân khác có liên quan đến hoạt động kiểm toán độc lập",26750,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_888547526,LinhVuc,Kiểm toán độc lập,Kiểm toán độc lập,26750,metadata,1.0,metadata
+NguoiKy_735969823,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,26750,metadata,1.0,metadata
+CoQuan_631011907,CoQuan,Quốc hội,Quốc hội,26750,metadata,1.0,metadata
+DoiTuongApDung_400348904,DoiTuongApDung,"Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền","Tổ chức, cá nhân khác có liên quan đến công việc thiết kế mẫu tiền, chế tạo bản in, khuôn đúc và in, đúc tiền",38128,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_55460830,DoiTuongApDung,Nhà máy in tiền Quốc gia,Nhà máy in tiền Quốc gia,38128,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_164558322,DoiTuongApDung,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,Các đơn vị có liên quan thuộc Ngân hàng Nhà nước,38128,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_816545997,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,38128,metadata,1.0,metadata
+NguoiKy_306203262,NguoiKy,Đào Minh Tú,Đào Minh Tú,38128,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,38128,metadata,1.0,metadata
+DoiTuongApDung_159597623,DoiTuongApDung,"Các tổ chức, cá nhân khác có liên quan","Các tổ chức, cá nhân khác có liên quan",112025,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_926556243,DoiTuongApDung,"Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm","Doanh nghiệp môi giới bảo hiểm, đại lý bảo hiểm",112025,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_333833913,DoiTuongApDung,Chi nhánh nước ngoài,Chi nhánh nước ngoài,112025,metadata/gemini,1.0,metadata/enrichment
+DoiTuongApDung_193973923,DoiTuongApDung,Doanh nghiệp bảo hiểm,Doanh nghiệp bảo hiểm,112025,metadata/gemini,1.0,metadata/enrichment
+LinhVuc_517766624,LinhVuc,Kinh doanh bảo hiểm,Kinh doanh bảo hiểm,112025,metadata,1.0,metadata
+NguoiKy_517575735,NguoiKy,Nguyễn Xuân Phúc,Nguyễn Xuân Phúc,112025,metadata,1.0,metadata
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,112025,metadata,1.0,metadata
+DoiTuongApDung_186994903,DoiTuongApDung,"Cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động, can thiệp sớm, kiểm soát đặc biệt, tổ chức lại, giải thể, phá sản tổ chức tín dụng","Cơ quan, tổ chức, cá nhân có liên quan đến việc thành lập, tổ chức, hoạt động, can thiệp sớm, kiểm soát đặc biệt, tổ chức lại, giải thể, phá sản tổ chức tín dụng",166170,metadata/gemini,1.0,metadata/enrichment
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,185630,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,185630,metadata,1.0,metadata
+LinhVuc_999000419,LinhVuc,"Lao động, tiền lương, tiền công","Lao động, tiền lương, tiền công",185630,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,117310,metadata,1.0,metadata
+NguoiKy_749048028,NguoiKy,Nguyễn Đồng Tiến,Nguyễn Đồng Tiến,117310,metadata,1.0,metadata
+LinhVuc_233210126,LinhVuc,"Thanh tra, giám sát ngân hàng","Thanh tra, giám sát ngân hàng",117310,metadata,1.0,metadata
+CoQuan_631011907,CoQuan,Quốc hội,Quốc hội,166269,metadata,1.0,metadata
+NguoiKy_125471001,NguoiKy,Vương Đình Huệ,Vương Đình Huệ,166269,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,177271,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,177271,metadata,1.0,metadata
+LinhVuc_204942460,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,177271,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,44209,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,186888,metadata,1.0,metadata
+LinhVuc_204942460,LinhVuc,Cục An toàn hệ thống các tổ chức tín dụng,Cục An toàn hệ thống các tổ chức tín dụng,186888,metadata,1.0,metadata
+CoQuan_817656383,CoQuan,Ngân hàng Nhà nước Việt Nam,Ngân hàng Nhà nước Việt Nam,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,1.0,metadata
+NguoiKy_175756545,NguoiKy,Đoàn Thái Sơn,Đoàn Thái Sơn,6e689cd0-6f81-11f1-94d6-fd5d6d5ff793,metadata,1.0,metadata
+NguoiKy_306203262,NguoiKy,Đào Minh Tú,Đào Minh Tú,44209,metadata,1.0,metadata
+LinhVuc_816545997,LinhVuc,Phát hành và kho quỹ,Phát hành và kho quỹ,44209,metadata,1.0,metadata
+CoQuan_631011907,CoQuan,Quốc hội,Quốc hội,25692,metadata,1.0,metadata
+NguoiKy_735969823,NguoiKy,Nguyễn Phú Trọng,Nguyễn Phú Trọng,25692,metadata,1.0,metadata
+CoQuan_224723433,CoQuan,BỘ TÀI CHÍNH,BỘ TÀI CHÍNH,112924,gemini,0.99,BỘ TÀI CHÍNH
+CoQuan_459545539,CoQuan,CHÍNH PHỦ,CHÍNH PHỦ,146468,gemini,0.99,CHÍNH PHỦ
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,168220,gemini,0.99,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+CoQuan_224723433,CoQuan,BỘ TÀI CHÍNH,BỘ TÀI CHÍNH,30402,gemini,0.99,BỘ TÀI CHÍNH
+CoQuan_459545539,CoQuan,CHÍNH PHỦ,CHÍNH PHỦ,95652,gemini,0.99,CHÍNH PHỦ CỘNG HÒA XÃ HỘI CHỦ NGHĨA VIỆT NAM
+LinhVuc_32937,LinhVuc,Chứng khoán và thị trường chứng khoán,chứng khoán và thị trường chứng khoán,146468,gemini,0.98,Quy định xử phạt vi phạm hành chính trong lĩnh vực chứng khoán và thị trường chứng khoán
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,38128,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+CoQuan_224723433,CoQuan,BỘ TÀI CHÍNH,BỘ TÀI CHÍNH,143217,gemini,0.95,BỘ TÀI CHÍNH
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,168859,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+LinhVuc_517766624,LinhVuc,Kinh doanh bảo hiểm,Kinh doanh bảo hiểm,163441,gemini,0.95,Luật Kinh doanh bảo hiểm
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,169221,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+CoQuan_559924146,CoQuan,Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam,Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam,26750,gemini,0.95,"Luật này đã được Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam khóa XII, kỳ họp thứ 9 thông qua ngày 29 tháng 3 ngày 2011."
+CoQuan_459545539,CoQuan,Chính phủ,Chính phủ,f69936f0-6937-11f1-a48d-29bc6b0fd706,gemini,0.95,Nghị định số 156/2020/NĐ-CP ngày 31 tháng 12 năm 2020 của Chính phủ
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,27257,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,173695,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+CoQuan_817656383,CoQuan,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM,186482,gemini,0.95,NGÂN HÀNG NHÀ NƯỚC VIỆT NAM
+DoiTuongApDung_602723052,DoiTuongApDung,"Chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp tái bảo hiểm nước ngoài; Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam","Chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp tái bảo hiểm nước ngoài; Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam",163441,gemini,0.9,"Chi nhánh doanh nghiệp bảo hiểm phi nhân thọ nước ngoài, chi nhánh doanh nghiệp tái bảo hiểm nước ngoài (sau đây gọi là chi nhánh nước ngoài tại Việt Nam); Văn phòng đại diện của doanh nghiệp bảo hiểm nước ngoài, doanh nghiệp tái bảo hiểm nước ngoài, doanh nghiệp môi giới bảo hiểm nước ngoài, tập đoàn tài chính, bảo hiểm nước ngoài tại Việt Nam"
+LinhVuc_153055480,LinhVuc,Kiểm toán nội bộ,Kiểm toán nội bộ,150974,gemini,0.9,Ban hành chuẩn mực kiểm toán nội bộ Việt Nam
+LinhVuc_580170688,LinhVuc,Bảo hiểm,Bảo hiểm,112924,gemini,0.9,DOANH NGHIỆP KINH DOANH BẢO HIỂM
+LinhVuc_898393019,LinhVuc,Kiểm toán,Kiểm toán,30402,gemini,0.9,"đăng ký, quản lý và công khai danh sách kiểm toán viên hành nghề kiểm toán"
+LinhVuc_27003347,LinhVuc,Ngân hàng,ngân hàng,168220,gemini,0.9,hoạt động trong lĩnh vực ngân hàng
+LinhVuc_84410887,LinhVuc,Tổ chức tín dụng,Tổ chức tín dụng,166170,gemini,0.9,LUẬT CÁC TỔ CHỨC TÍN DỤNG
+LinhVuc_377570137,LinhVuc,"Quản lý, giám sát ngân hàng","quản lý, giám sát ngân hàng",186482,gemini,0.85,"trong lĩnh vực quản lý, giám sát ngân hàng liên quan đến cắt giảm điều kiện kinh doanh, đơn giản hóa thủ tục hành chính"
+LinhVuc_384788153,LinhVuc,Tín dụng,Tín dụng,168859,gemini,0.85,quỹ tín dụng nhân dân
+LinhVuc_27003347,LinhVuc,Ngân hàng,Ngân hàng,164719,gemini,0.85,"quy định tỷ lệ an toàn vốn đối với ngân hàng, chi nhánh ngân hàng nước ngoài"
+LinhVuc_27003347,LinhVuc,Ngân hàng,Ngân hàng,173695,gemini,0.85,"Quy định hồ sơ, thủ tục cấp Giấy phép lần đầu của ngân hàng thương mại, chi nhánh ngân hàng nước ngoài , văn phòng đại diện nước ngoài"
+LinhVuc_591842244,LinhVuc,Quản lý dự trữ ngoại hối nhà nước,quản lý dự trữ ngoại hối nhà nước,169221,gemini,0.85,hướng dẫn việc tổ chức thực hiện hoạt động quản lý dự trữ ngoại hối nhà nước
+LinhVuc_266672757,LinhVuc,"Thiết kế mẫu tiền, chế bản và quản lý in, đúc tiền Việt Nam","thiết kế mẫu tiền, chế bản và quản lý in, đúc tiền Việt Nam",38128,gemini,0.85,"THÔNG TƯ Q uy định việc thiết kế mẫu tiền, chế bản và quản lý in, đúc tiền Việt Nam"
