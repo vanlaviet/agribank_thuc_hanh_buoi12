@@ -2,6 +2,14 @@
 
 Bài thực hành nâng cấp hệ thống RAG lên Hybrid Search (kết hợp Lexical BM25 và Vector Dense) kết hợp Reranking với Cross-Encoder. Đồng thời xây dựng Knowledge Graph mini để trực quan hoá mối quan hệ giữa các văn bản và điều khoản.
 
+## Chuẩn bị dữ liệu
+
+Trước khi chạy ứng dụng, bạn cần chạy script để chuẩn hóa corpus:
+```bash
+python scripts/prepare_corpus.py
+```
+Lệnh này sẽ tạo ra file `data/processed/chunks_normalized.csv`.
+
 ## Cách chạy ứng dụng Streamlit
 
 1. Cài đặt các thư viện (đảm bảo bạn đang ở môi trường ảo):
