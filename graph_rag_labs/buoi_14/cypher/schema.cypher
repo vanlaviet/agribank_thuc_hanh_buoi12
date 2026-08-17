@@ -1,0 +1,7 @@
+// Ràng buộc duy nhất
+CREATE CONSTRAINT IF NOT EXISTS FOR (v:VanBan) REQUIRE v.id IS UNIQUE;
+CREATE CONSTRAINT IF NOT EXISTS FOR (d:DieuKhoan) REQUIRE d.id IS UNIQUE;
+
+// Chỉ mục
+CREATE INDEX IF NOT EXISTS FOR (v:VanBan) ON (v.lab_session);
+CREATE INDEX IF NOT EXISTS FOR (d:DieuKhoan) ON (d.lab_session);

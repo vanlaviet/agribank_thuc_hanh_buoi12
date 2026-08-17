@@ -1,0 +1,6 @@
+question_id,question,expected_chunk_id,query_type,note
+q1,Điều 111 của Nghị định 73/2016/NĐ-CP quy định gì?,112025_chunk_2,MIXED,Hybrid+Rerank found this
+q2,Trách nhiệm của các bộ và cơ quan ngang bộ là gì?,25692_chunk_14,SEMANTIC,Dense found this
+q3,Điều 112 quy định trách nhiệm của Ủy ban nhân dân như thế nào?,112025_chunk_2,MIXED,Hybrid+Rerank found this
+q4,Nguyên tắc thu chi tiền mặt ngoại tệ giấy tờ có giá,44209_chunk_0,EXACT_KEYWORD,BM25 should excel
+q5,Việc đóng gói niêm phong kiểm đếm giao nhận vàng kim khí quý đá quý,44209_chunk_0,EXACT_KEYWORD,Exact match from corpus
